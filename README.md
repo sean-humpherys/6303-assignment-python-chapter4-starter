@@ -1,7 +1,8 @@
+Press Ctrl+Shift+V to preview this README.md file or Cmd+Shift+V on a Mac.
 # 6303-assignment-python-chapter4
 The instructions for this assignment can be found at   
 (https://docs.google.com/document/d/1QZuGPhN9vr-SsXKNwSeBI-Wo-ppTRoVkxU-kZwhWqqk/edit)  
-  
+ 
 
 ## How to run Python apps
 Open a terminal in VS Code from Terminal Menu, New Terminal. Type one of the following commands. 
