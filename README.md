@@ -1,4 +1,4 @@
-Press Ctrl+Shift+V to preview this README.md file or Cmd+Shift+V on a Mac.
+In VS Code, press Ctrl+Shift+V to preview this README.md file or Cmd+Shift+V on a Mac.
 # 6303-assignment-python-chapter4
 The instructions for this assignment can be found at   
 (https://docs.google.com/document/d/1QZuGPhN9vr-SsXKNwSeBI-Wo-ppTRoVkxU-kZwhWqqk/edit)  
