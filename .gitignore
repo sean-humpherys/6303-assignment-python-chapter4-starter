@@ -1,3 +1,4 @@
-payroll_answer.py
 *answer.py
 .vscode/*
+*answer/
+__pycache__/
