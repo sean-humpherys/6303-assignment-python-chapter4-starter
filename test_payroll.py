@@ -5,7 +5,7 @@
 # Notice calc_payroll_tax() is in payroll.py file, not the current file
 # The correct answers output by testpayroll.py are found in the instructions.
 
-from payroll_answer import calc_payroll_tax
+from payroll import calc_payroll_tax
 
 calc_payroll_tax(200)
 print("-" * 20)
